@@ -7,9 +7,9 @@ rewite_local
 ^https:\/\/qemyapi\.qiekj\.com\/api\/item_list url reject-dict
 ^https:\/\/userapi\.qiekj\.com\/task\/taskBubble url reject-dict
 ^https:\/\/userapi\.qiekj\.com\/appTitle\/get url reject-dict
-mitm
-hostname = userapi.qiekj.com
-hostname = qemyapi.qiekj.com
-hostname = acs.m.taobao.com
-hostname = image.uczzd.cn
-hostname = pocketuni.net
+mitm hostname = 
+userapi.qiekj.com
+qemyapi.qiekj.com
+acs.m.taobao.com
+image.uczzd.cn
+pocketuni.net
