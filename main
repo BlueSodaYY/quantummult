@@ -3,7 +3,7 @@
 ^https:\/\/pocketuni\.net\/\?app=api&mod=Message&act=adList url reject-dict
 ^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.common\.getTimestamp\/* url reject-dict 
 ^https:\/\/qemyapi\.qiekj\.com\/item_category\/list url reject-dict 
-^https:\/\/userapi\.qiekj\.com\/slot\/get url reject-dict https
+^https:\/\/userapi\.qiekj\.com\/slot\/get url reject-dict 
 ^https:\/\/qemyapi\.qiekj\.com\/api\/item_list url reject-dict
 ^https:\/\/userapi\.qiekj\.com\/task\/taskBubble url reject-dict
 ^https:\/\/userapi\.qiekj\.com\/appTitle\/get url reject-dict 
