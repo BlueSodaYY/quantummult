@@ -9,9 +9,6 @@ rewite_local
 ^https:\/\/userapi\.qiekj\.com\/appTitle\/get url reject-dict
 mitm
 hostname = userapi.qiekj.com
-hostname = userapi.qiekj.com
-hostname = qemyapi.qiekj.com
-hostname = userapi.qiekj.com
 hostname = qemyapi.qiekj.com
 hostname = acs.m.taobao.com
 hostname = image.uczzd.cn
