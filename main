@@ -1,0 +1,18 @@
+rewite_local
+^https:\/\/image\.uczzd\.cn\/\?id=1932387156848598083 url reject-dict
+^https:\/\/pocketuni\.net\/\?app=api&mod=Message&act=adList url reject-dict
+^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.common\.getTimestamp\/* url reject-dict
+^https:\/\/qemyapi\.qiekj\.com\/item_category\/list url reject-dict
+^https:\/\/userapi\.qiekj\.com\/slot\/get url reject-dict
+^https:\/\/qemyapi\.qiekj\.com\/api\/item_list url reject-dict
+^https:\/\/userapi\.qiekj\.com\/task\/taskBubble url reject-dict
+^https:\/\/userapi\.qiekj\.com\/appTitle\/get url reject-dict
+mitm
+hostname = userapi.qiekj.com
+hostname = userapi.qiekj.com
+hostname = qemyapi.qiekj.com
+hostname = userapi.qiekj.com
+hostname = qemyapi.qiekj.com
+hostname = acs.m.taobao.com
+hostname = image.uczzd.cn
+hostname = pocketuni.net
